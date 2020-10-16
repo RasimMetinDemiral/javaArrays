@@ -1,2 +1,2 @@
 # javaArrays
-two-one dimentional array
+Two-one dimentional array exersize
